@@ -1,0 +1,18 @@
+-- DreamyBirdy v0.1 --
+ -- Fri Nov 10 17:56:54 2023 --
+
+[INFO] __main__: [37mWelcome to [35mDreamy Birdy[37m! This is the [33mperfect project[37m for all of you always wanting to code in [31mDreamBerd3 [37m!
+[INFO] __main__: Setting up complete.
+[INFO] __main__: Starting interpreter...
+[INFO] interpreter.keys.vars.VarHandler: VarHandler Setup complete...
+[INFO] interpreter.Interpreter: Interpreter Setup complete...
+[INFO] interpreter.LineHandler: New Line set to const const greeting = "Hello John"!!!!!
+[INFO] interpreter.LineHandler: Variable declaration found
+[INFO] interpreter.keys.vars.VarHandler: New Line set to const const greeting = "Hello John"!!!!!
+[INFO] interpreter.LineHandler: New line:  greeting = "Hello John"!!!!!
+[INFO] interpreter.LineHandler: New Line set to print(f"Hello, {name}")!
+[INFO] interpreter.LineHandler: New line: print(f"Hello, {name}")!
+[INFO] interpreter.LineHandler: New Line set to Empty Line
+[INFO] interpreter.LineHandler: Empty line found
+[INFO] interpreter.LineHandler: New Line set to test = "Hello, {name}!"!
+[INFO] interpreter.LineHandler: New line: test = "Hello, {name}!"!

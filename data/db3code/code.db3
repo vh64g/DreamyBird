@@ -1,0 +1,4 @@
+const const greeting = "Hello John"!!!!!
+print(f"Hello, {name}")!
+
+test = "Hello, {name}!"
