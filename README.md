@@ -14,4 +14,4 @@ So even the little things I already have, will need a huge rework.
 I hope together we will be able to achive more, and start coding in the best programming language ever build...
 
 ## Ownership
-Since this project has not the name DreamBerd3 in its title I guess it's owned by the DreamBerd 3 Foundation haha
+Since this project does not have the name DreamBerd3 in its title, I guess it's owned by the DreamBerd 3 Foundation haha
