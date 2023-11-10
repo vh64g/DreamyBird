@@ -13,5 +13,19 @@ Especially the exclamation mark count will need a lot of work, since it isn't re
 So even the little things I already have, will need a huge rework.
 I hope together we will be able to achive more, and start coding in the best programming language ever build...
 
+### TODO
+So I wwould suggest:
+-reworking the current methods
+-replacing ; with the not operator
+-running interpreted codelines
+-error handling
+-functions
+-classes
+-kivy.md interface for writing code
+-with the custom IDE interface we should be able to encode emojis and numbers so that they can be used as var names
+-detecting plain text after var declaration as string var
+-arrays
+Feel free to add more, break up points and/or order them, ... 
+
 ## Ownership
 Since this project does not have the name DreamBerd3 in its title, I guess it's owned by the DreamBerd 3 Foundation haha
